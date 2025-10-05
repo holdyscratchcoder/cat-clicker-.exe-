@@ -1,2 +1,2 @@
-# cat-clicker-.exe-
-.exe version
+1: extract the ZIP
+2: open cat clicker
